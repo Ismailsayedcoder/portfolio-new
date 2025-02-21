@@ -1,0 +1,894 @@
+{
+  "systemInfo": {
+    "operatingSystem": "win32",
+    "windsurfVersion": "1.2.2",
+    "userEmail": "ismail.sayed.coder@gmail.com",
+    "timestamp": "2025-01-27T17:36:51.210Z",
+    "installationId": "e441fc89-041e-4631-a8ee-6da45574c666"
+  },
+  "userSettings": {
+    "openMostRecentChatConversation": true,
+    "lastSelectedModel": "MODEL_UNSPECIFIED",
+    "themePreference": "THEME_PREFERENCE_UNSPECIFIED",
+    "extensionPanelTab": "EXTENSION_PANEL_TAB_UNSPECIFIED",
+    "fontSize": "FONT_SIZE_DEFAULT",
+    "autocompleteSpeed": "AUTOCOMPLETE_SPEED_FAST",
+    "rememberLastModelSelection": "REMEMBER_LAST_MODEL_SELECTION_ENABLED",
+    "lastSelectedModelName": "",
+    "lastSelectedCascadeModel": "MODEL_UNSPECIFIED",
+    "cascadeNuxStates": [
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      }
+    ],
+    "cascadePlannerMode": "CONVERSATIONAL_PLANNER_MODE_READ_ONLY",
+    "cascadeAllowedCommands": [],
+    "cascadeDeniedCommands": [],
+    "enableModelBasedAutoExecution": false,
+    "userNuxStates": [],
+    "cascadeWebSearchDisabled": false
+  },
+  "extensionLogs": [
+    "2025-01-27 19:04:10.612 [info] 2025/01/27 19:04:10 maxprocs: Leaving GOMAXPROCS=4: CPU quota undefined",
+    "2025-01-27 19:04:11.723 [info] I0127 19:04:11.717692 13608 main.go:572] Setting GOMAXPROCS to 4",
+    "2025-01-27 19:04:11.724 [info] I0127 19:04:11.723705 13608 main.go:785] Starting language server process with pid 13608",
+    "2025-01-27 19:04:11.724 [info] I0127 19:04:11.723705 13608 server.go:220] Language server will attempt to listen on host 127.0.0.1",
+    "2025-01-27 19:04:11.726 [info] I0127 19:04:11.725259 13608 server.go:227] Language server listening on random port at 53142",
+    "2025-01-27 19:04:11.773 [info] 2025/01/27 19:04:11 [proxy.Provider.readWinHttpProxy] No proxy discovered via AutoDetect: winapi error #12180",
+    "2025-01-27 19:04:12.724 [info] I0127 19:04:12.724229 13608 unleash.go:92] Initializing Unleash",
+    "2025-01-27 19:04:13.306 [info] I0127 19:04:13.305815 13608 unleash.go:112] Successfully initialized Unleash",
+    "2025-01-27 19:04:13.307 [info] I0127 19:04:13.306326 13608 server.go:303] Created extension server client at port 53139",
+    "2025-01-27 19:04:13.521 [info] I0127 19:04:13.521188 13608 server.go:558] Successfully created API server client",
+    "2025-01-27 19:04:13.623 [info] I0127 19:04:13.623415 13608 server.go:576] Successfully initialized tokenizer",
+    "2025-01-27 19:04:16.041 [info] I0127 19:04:15.980530 13608 server.go:753] Local search is enabled, will index local files.",
+    "I0127 19:04:15.980530 13608 server.go:757] Using 1 indexer workers",
+    "2025-01-27 19:04:17.976 [info] I0127 19:04:17.976385 13608 server.go:845] Successfully created completion provider",
+    "2025-01-27 19:04:17.988 [info] I0127 19:04:17.987122 13608 server.go:364] LSP listening on random port at 53155",
+    "2025-01-27 19:04:18.007 [info] (Windsurf) 2025-01-27 19:04:17.994 [INFO]: Language server started",
+    "2025-01-27 19:04:18.298 [info] I0127 19:04:18.235102 13608 utils.go:323] Analyzing workspace files for c:/Users/Esmail Sayed/CascadeProjects/my-react-app",
+    "2025-01-27 19:04:18.489 [info] I0127 19:04:18.453657 13608 utils.go:382] Done analyzing workspace files for c:/Users/Esmail Sayed/CascadeProjects/my-react-app",
+    "2025-01-27 19:04:19.488 [info] (Windsurf) 2025-01-27 19:04:19.487 [INFO]: LS lspClient started successfully",
+    "2025-01-27 19:06:49.931 [info] (Windsurf) 2025-01-27 19:06:49.930 [INFO]: Completion request succeeded (105.37ms)",
+    "2025-01-27 19:06:50.006 [info] E0127 19:06:50.006076 13608 interceptor.go:55] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand: document has less than 3 lines, skipping supercomplete",
+    "2025-01-27 19:06:58.164 [info] (Windsurf) 2025-01-27 19:06:58.163 [INFO]: Completion request was cancelled by token (5957.09ms)",
+    "2025-01-27 19:07:02.561 [info] (Windsurf) 2025-01-27 19:07:02.560 [INFO]: Completion request succeeded (42.34ms)",
+    "2025-01-27 19:07:02.641 [info] E0127 19:07:02.640229 13608 interceptor.go:55] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand: document has less than 3 lines, skipping supercomplete",
+    "2025-01-27 19:07:06.197 [info] (Windsurf) 2025-01-27 19:07:06.196 [INFO]: Completion request succeeded (1155.91ms)",
+    "2025-01-27 19:07:13.421 [info] (Windsurf) 2025-01-27 19:07:13.420 [INFO]: Completion request succeeded (1711.57ms)",
+    "2025-01-27 19:07:18.484 [info] (Windsurf) 2025-01-27 19:07:18.483 [INFO]: Completion request succeeded (1239.9ms)",
+    "2025-01-27 19:07:28.530 [info] (Windsurf) 2025-01-27 19:07:28.527 [INFO]: Completion request succeeded (1242.6ms)",
+    "2025-01-27 19:07:50.879 [info] (Windsurf) 2025-01-27 19:07:50.878 [INFO]: Completion request succeeded (1038.66ms)",
+    "2025-01-27 19:08:02.092 [info] (Windsurf) 2025-01-27 19:08:02.091 [INFO]: Completion request succeeded (4256.54ms)",
+    "2025-01-27 19:08:20.182 [info] (Windsurf) 2025-01-27 19:08:20.182 [INFO]: Completion request was cancelled by token (329.19ms)",
+    "2025-01-27 19:08:22.146 [info] (Windsurf) 2025-01-27 19:08:22.141 [INFO]: Completion request succeeded (1837.8ms)",
+    "2025-01-27 19:09:10.436 [info] (Windsurf) 2025-01-27 19:09:10.435 [INFO]: Completion request succeeded (811.67ms)",
+    "2025-01-27 19:09:10.639 [info] (Windsurf) 2025-01-27 19:09:10.637 [INFO]: Completion request succeeded (25.47ms)",
+    "2025-01-27 19:09:10.867 [info] (Windsurf) 2025-01-27 19:09:10.867 [INFO]: Completion request succeeded (26.95ms)",
+    "2025-01-27 19:09:12.301 [info] (Windsurf) 2025-01-27 19:09:12.300 [INFO]: Completion request succeeded (71.75ms)",
+    "2025-01-27 19:09:14.357 [info] (Windsurf) 2025-01-27 19:09:14.356 [INFO]: Completion request succeeded (931.69ms)",
+    "2025-01-27 19:10:26.361 [info] (Windsurf) 2025-01-27 19:10:26.360 [INFO]: Completion request succeeded (1807.14ms)",
+    "2025-01-27 19:10:30.290 [info] (Windsurf) 2025-01-27 19:10:30.288 [INFO]: Completion request succeeded (1446.07ms)",
+    "2025-01-27 19:10:33.734 [info] (Windsurf) 2025-01-27 19:10:33.733 [INFO]: Completion request succeeded (2002.39ms)",
+    "2025-01-27 19:10:35.425 [info] (Windsurf) 2025-01-27 19:10:35.424 [INFO]: Completion request succeeded (1186.98ms)",
+    "2025-01-27 19:10:41.769 [info] (Windsurf) 2025-01-27 19:10:41.769 [INFO]: Completion request succeeded (1195.67ms)",
+    "2025-01-27 19:10:53.524 [info] (Windsurf) 2025-01-27 19:10:53.523 [INFO]: Completion request succeeded (1115.69ms)",
+    "2025-01-27 19:11:12.249 [info] (Windsurf) 2025-01-27 19:11:12.248 [INFO]: Completion request succeeded (31.27ms)",
+    "2025-01-27 19:11:12.346 [info] E0127 19:11:12.346084 13608 interceptor.go:55] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand: document has less than 3 lines, skipping supercomplete",
+    "2025-01-27 19:11:22.370 [info] (Windsurf) 2025-01-27 19:11:22.369 [INFO]: Completion request succeeded (3317.02ms)",
+    "2025-01-27 19:11:42.334 [info] (Windsurf) 2025-01-27 19:11:42.333 [INFO]: Completion request succeeded (38.75ms)",
+    "2025-01-27 19:11:42.387 [info] E0127 19:11:42.386807 13608 interceptor.go:55] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand: document has less than 3 lines, skipping supercomplete",
+    "2025-01-27 19:11:45.778 [info] (Windsurf) 2025-01-27 19:11:45.777 [INFO]: Completion request succeeded (1801.01ms)",
+    "2025-01-27 19:12:03.211 [info] (Windsurf) 2025-01-27 19:12:03.210 [INFO]: Completion request was cancelled by token (1542.94ms)",
+    "2025-01-27 19:12:05.360 [info] (Windsurf) 2025-01-27 19:12:05.359 [INFO]: Completion request succeeded (1744.51ms)",
+    "2025-01-27 19:12:30.177 [info] (Windsurf) 2025-01-27 19:12:30.176 [INFO]: Completion request succeeded (801.41ms)",
+    "2025-01-27 19:12:39.691 [info] (Windsurf) 2025-01-27 19:12:39.690 [INFO]: Completion request was cancelled by token (1763.78ms)",
+    "2025-01-27 19:12:40.909 [info] (Windsurf) 2025-01-27 19:12:40.908 [INFO]: Completion request succeeded (1073.5ms)",
+    "2025-01-27 19:12:45.668 [info] (Windsurf) 2025-01-27 19:12:45.667 [INFO]: Completion request succeeded (170.23ms)",
+    "2025-01-27 19:12:48.914 [info] (Windsurf) 2025-01-27 19:12:48.913 [INFO]: Completion request succeeded (1712.04ms)",
+    "2025-01-27 19:12:54.169 [info] (Windsurf) 2025-01-27 19:12:54.167 [INFO]: Completion request succeeded (2123.67ms)",
+    "2025-01-27 19:13:30.725 [info] (Windsurf) 2025-01-27 19:13:30.724 [INFO]: Completion request succeeded (1856ms)",
+    "2025-01-27 19:13:33.533 [info] (Windsurf) 2025-01-27 19:13:33.532 [INFO]: Completion request succeeded (1601.01ms)",
+    "2025-01-27 19:13:43.997 [info] (Windsurf) 2025-01-27 19:13:43.996 [INFO]: Completion request succeeded (1426.41ms)",
+    "2025-01-27 19:13:45.645 [info] (Windsurf) 2025-01-27 19:13:45.644 [INFO]: Completion request succeeded (1265.54ms)",
+    "2025-01-27 19:13:47.833 [info] (Windsurf) 2025-01-27 19:13:47.831 [INFO]: Completion request succeeded (1783.35ms)",
+    "2025-01-27 19:14:38.235 [info] (Windsurf) 2025-01-27 19:14:38.235 [INFO]: Completion request was cancelled by token (1381.43ms)",
+    "2025-01-27 19:14:39.138 [info] (Windsurf) 2025-01-27 19:14:39.137 [INFO]: Completion request was cancelled by token (708.77ms)",
+    "2025-01-27 19:14:41.482 [info] (Windsurf) 2025-01-27 19:14:41.481 [INFO]: Completion request succeeded (1943.18ms)",
+    "2025-01-27 19:14:47.064 [info] (Windsurf) 2025-01-27 19:14:47.063 [INFO]: Completion request was cancelled by token (759.09ms)",
+    "2025-01-27 19:14:48.619 [info] (Windsurf) 2025-01-27 19:14:48.618 [INFO]: Completion request was cancelled by token (1207.99ms)",
+    "2025-01-27 19:14:50.972 [info] (Windsurf) 2025-01-27 19:14:50.972 [INFO]: Completion request succeeded (2116.14ms)",
+    "2025-01-27 19:15:47.148 [info] (Windsurf) 2025-01-27 19:15:47.145 [INFO]: Completion request succeeded (2618.21ms)",
+    "2025-01-27 19:16:00.352 [info] (Windsurf) 2025-01-27 19:16:00.351 [INFO]: Completion request succeeded (22.13ms)",
+    "2025-01-27 19:16:00.417 [info] E0127 19:16:00.416469 13608 interceptor.go:55] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand: document has less than 3 lines, skipping supercomplete",
+    "2025-01-27 19:16:01.159 [info] (Windsurf) 2025-01-27 19:16:01.159 [INFO]: Completion request was cancelled by token (7.53ms)",
+    "2025-01-27 19:16:01.500 [info] E0127 19:16:01.499753 13608 interceptor.go:55] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand: edit summary is empty",
+    "2025-01-27 19:16:07.704 [info] (Windsurf) 2025-01-27 19:16:07.703 [INFO]: Completion request succeeded (1705.04ms)",
+    "2025-01-27 19:16:08.896 [info] (Windsurf) 2025-01-27 19:16:08.895 [INFO]: Completion request was cancelled by token (700.82ms)",
+    "2025-01-27 19:16:10.922 [info] (Windsurf) 2025-01-27 19:16:10.922 [INFO]: Completion request was cancelled by token (1709.35ms)",
+    "2025-01-27 19:16:12.283 [info] (Windsurf) 2025-01-27 19:16:12.282 [INFO]: Completion request succeeded (23.15ms)",
+    "2025-01-27 19:16:12.341 [info] E0127 19:16:12.341186 13608 interceptor.go:55] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand: document has less than 3 lines, skipping supercomplete",
+    "2025-01-27 19:16:15.174 [info] (Windsurf) 2025-01-27 19:16:15.174 [INFO]: Completion request succeeded (1104.93ms)",
+    "2025-01-27 19:16:22.358 [info] (Windsurf) 2025-01-27 19:16:22.357 [INFO]: Completion request was cancelled by token (1078.43ms)",
+    "2025-01-27 19:16:23.958 [info] E0127 19:16:23.958180 13608 interceptor.go:55] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand: edit summary is empty",
+    "2025-01-27 19:16:24.614 [info] (Windsurf) 2025-01-27 19:16:24.614 [INFO]: Completion request succeeded (885.01ms)",
+    "2025-01-27 19:16:59.060 [info] E0127 19:16:59.060236 13608 interceptor.go:55] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand: edit summary is empty",
+    "2025-01-27 19:16:59.592 [info] (Windsurf) 2025-01-27 19:16:59.592 [INFO]: Completion request was cancelled by token (821.72ms)",
+    "2025-01-27 19:16:59.800 [info] E0127 19:16:59.799566 13608 interceptor.go:55] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand: edit summary is empty",
+    "2025-01-27 19:17:00.901 [info] (Windsurf) 2025-01-27 19:17:00.901 [INFO]: Completion request succeeded (21.05ms)",
+    "2025-01-27 19:17:00.959 [info] E0127 19:17:00.959333 13608 interceptor.go:55] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand: document has less than 3 lines, skipping supercomplete",
+    "2025-01-27 19:17:03.954 [info] (Windsurf) 2025-01-27 19:17:03.953 [INFO]: Completion request succeeded (1069.44ms)",
+    "2025-01-27 19:18:48.896 [info] (Windsurf) 2025-01-27 19:18:48.895 [INFO]: Completion request succeeded (1930.65ms)",
+    "2025-01-27 19:18:50.543 [info] (Windsurf) 2025-01-27 19:18:50.542 [INFO]: Completion request succeeded (1430.4ms)",
+    "2025-01-27 19:18:57.966 [info] (Windsurf) 2025-01-27 19:18:57.965 [INFO]: Completion request succeeded (1273.24ms)",
+    "2025-01-27 19:19:00.549 [info] (Windsurf) 2025-01-27 19:19:00.548 [INFO]: Completion request succeeded (1097.7ms)",
+    "2025-01-27 19:19:45.351 [info] (Windsurf) 2025-01-27 19:19:45.349 [INFO]: Completion request errored (5214.3ms)",
+    "2025-01-27 19:20:00.678 [info] (Windsurf) 2025-01-27 19:20:00.677 [INFO]: Completion request succeeded (1253.47ms)",
+    "2025-01-27 19:20:11.099 [info] (Windsurf) 2025-01-27 19:20:11.099 [INFO]: Completion request succeeded (1415.34ms)",
+    "2025-01-27 19:20:24.416 [info] (Windsurf) 2025-01-27 19:20:24.415 [INFO]: Completion request succeeded (665.05ms)",
+    "2025-01-27 19:20:30.709 [info] (Windsurf) 2025-01-27 19:20:30.707 [INFO]: Completion request succeeded (676.86ms)",
+    "2025-01-27 19:20:48.956 [info] (Windsurf) 2025-01-27 19:20:48.955 [INFO]: Completion request succeeded (1306.23ms)",
+    "2025-01-27 19:20:50.620 [info] (Windsurf) 2025-01-27 19:20:50.619 [INFO]: Completion request was cancelled by token (773.5ms)",
+    "2025-01-27 19:20:50.700 [info] (Windsurf) 2025-01-27 19:20:50.699 [INFO]: Completion request succeeded (23.98ms)",
+    "2025-01-27 19:20:53.845 [info] (Windsurf) 2025-01-27 19:20:53.843 [INFO]: Completion request succeeded (1124.11ms)",
+    "2025-01-27 19:21:02.818 [info] (Windsurf) 2025-01-27 19:21:02.817 [INFO]: Completion request succeeded (29.31ms)",
+    "2025-01-27 19:21:04.615 [info] (Windsurf) 2025-01-27 19:21:04.614 [INFO]: Completion request succeeded (1289.84ms)",
+    "2025-01-27 19:21:05.454 [info] (Windsurf) 2025-01-27 19:21:05.453 [INFO]: Completion request was cancelled by token (693.08ms)",
+    "2025-01-27 19:21:05.809 [info] (Windsurf) 2025-01-27 19:21:05.808 [INFO]: Completion request was cancelled by token (331.7ms)",
+    "2025-01-27 19:21:06.368 [info] (Windsurf) 2025-01-27 19:21:06.367 [INFO]: Completion request was cancelled by token (488.4ms)",
+    "2025-01-27 19:21:06.835 [info] (Windsurf) 2025-01-27 19:21:06.834 [INFO]: Completion request was cancelled by token (430.52ms)",
+    "2025-01-27 19:21:08.184 [info] (Windsurf) 2025-01-27 19:21:08.182 [INFO]: Completion request succeeded (1251.05ms)",
+    "2025-01-27 19:21:10.064 [info] (Windsurf) 2025-01-27 19:21:10.062 [INFO]: Completion request was cancelled by token (830.02ms)",
+    "2025-01-27 19:21:10.744 [info] (Windsurf) 2025-01-27 19:21:10.743 [INFO]: Completion request was cancelled by token (644.47ms)",
+    "2025-01-27 19:21:12.320 [info] (Windsurf) 2025-01-27 19:21:12.319 [INFO]: Completion request succeeded (1572.32ms)",
+    "2025-01-27 19:21:18.589 [info] (Windsurf) 2025-01-27 19:21:18.587 [INFO]: Completion request was cancelled by token (550.26ms)",
+    "2025-01-27 19:21:18.678 [info] (Windsurf) 2025-01-27 19:21:18.677 [INFO]: Completion request succeeded (85.64ms)",
+    "2025-01-27 19:21:20.475 [info] (Windsurf) 2025-01-27 19:21:20.472 [INFO]: Completion request succeeded (908.42ms)",
+    "2025-01-27 19:21:27.614 [info] (Windsurf) 2025-01-27 19:21:27.613 [INFO]: Completion request was cancelled by token (743.72ms)",
+    "2025-01-27 19:21:29.981 [info] (Windsurf) 2025-01-27 19:21:29.980 [INFO]: Completion request succeeded (2028.2ms)",
+    "2025-01-27 19:21:34.751 [info] (Windsurf) 2025-01-27 19:21:34.749 [INFO]: Completion request was cancelled by token (835.63ms)",
+    "2025-01-27 19:21:38.755 [info] (Windsurf) 2025-01-27 19:21:38.754 [INFO]: Completion request succeeded (3576.19ms)",
+    "2025-01-27 19:22:58.993 [info] E0127 19:22:58.993062 13608 interceptor.go:55] /exa.language_server_pb.LanguageServerService/CancelCascadeInvocation: executor is not currently running",
+    "2025-01-27 19:23:15.525 [info] (Windsurf) 2025-01-27 19:23:15.524 [INFO]: Completion request succeeded (1642.97ms)",
+    "2025-01-27 19:23:32.604 [info] (Windsurf) 2025-01-27 19:23:32.602 [INFO]: Completion request succeeded (862.39ms)",
+    "2025-01-27 19:23:39.706 [info] (Windsurf) 2025-01-27 19:23:39.705 [INFO]: Completion request succeeded (648.36ms)",
+    "2025-01-27 19:23:44.954 [info] (Windsurf) 2025-01-27 19:23:44.953 [INFO]: Completion request succeeded (1518.39ms)",
+    "2025-01-27 19:23:48.230 [info] (Windsurf) 2025-01-27 19:23:48.229 [INFO]: Completion request was cancelled by token (2200.53ms)",
+    "2025-01-27 19:23:50.365 [info] (Windsurf) 2025-01-27 19:23:50.365 [INFO]: Completion request succeeded (1899.37ms)",
+    "2025-01-27 19:24:07.297 [info] (Windsurf) 2025-01-27 19:24:07.295 [INFO]: Completion request succeeded (1371.65ms)",
+    "2025-01-27 19:25:09.626 [info] (Windsurf) 2025-01-27 19:25:09.624 [INFO]: Completion request succeeded (1934.9ms)",
+    "2025-01-27 19:25:34.861 [info] (Windsurf) 2025-01-27 19:25:34.860 [INFO]: Completion request succeeded (100.75ms)",
+    "2025-01-27 19:25:37.460 [info] (Windsurf) 2025-01-27 19:25:37.460 [INFO]: Completion request succeeded (24.92ms)",
+    "2025-01-27 19:25:37.517 [info] E0127 19:25:37.516720 13608 interceptor.go:55] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand: document has less than 3 lines, skipping supercomplete",
+    "2025-01-27 19:25:43.407 [info] (Windsurf) 2025-01-27 19:25:43.406 [INFO]: Completion request succeeded (3313.97ms)",
+    "2025-01-27 19:27:20.627 [info] (Windsurf) 2025-01-27 19:27:20.626 [INFO]: Completion request succeeded (70.69ms)",
+    "2025-01-27 19:27:20.691 [info] E0127 19:27:20.689903 13608 interceptor.go:55] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand: document has less than 3 lines, skipping supercomplete",
+    "2025-01-27 19:27:23.224 [info] (Windsurf) 2025-01-27 19:27:23.223 [INFO]: Completion request succeeded (739.44ms)",
+    "2025-01-27 19:28:28.595 [info] (Windsurf) 2025-01-27 19:28:28.594 [INFO]: Completion request was cancelled by token (903.08ms)",
+    "2025-01-27 19:28:29.944 [info] (Windsurf) 2025-01-27 19:28:29.943 [INFO]: Completion request succeeded (67.66ms)",
+    "2025-01-27 19:28:30.020 [info] E0127 19:28:30.019724 13608 interceptor.go:55] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand: document has less than 3 lines, skipping supercomplete",
+    "2025-01-27 19:28:32.754 [info] (Windsurf) 2025-01-27 19:28:32.754 [INFO]: Completion request was cancelled by token (774.29ms)",
+    "2025-01-27 19:29:09.764 [info] (Windsurf) 2025-01-27 19:29:09.763 [INFO]: Completion request was cancelled by token (1070.11ms)",
+    "2025-01-27 19:29:10.814 [info] (Windsurf) 2025-01-27 19:29:10.813 [INFO]: Completion request succeeded (18.75ms)",
+    "2025-01-27 19:29:10.876 [info] E0127 19:29:10.875530 13608 interceptor.go:55] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand: document has less than 3 lines, skipping supercomplete",
+    "2025-01-27 19:29:13.624 [info] (Windsurf) 2025-01-27 19:29:13.610 [INFO]: Completion request was cancelled by token (1099.32ms)",
+    "2025-01-27 19:29:30.004 [info] (Windsurf) 2025-01-27 19:29:30.004 [INFO]: Completion request succeeded (18.45ms)",
+    "2025-01-27 19:29:30.062 [info] E0127 19:29:30.061797 13608 interceptor.go:55] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand: document has less than 3 lines, skipping supercomplete",
+    "2025-01-27 19:29:31.803 [info] (Windsurf) 2025-01-27 19:29:31.802 [INFO]: Completion request succeeded (826.35ms)",
+    "2025-01-27 19:30:20.383 [info] (Windsurf) 2025-01-27 19:30:20.381 [INFO]: Completion request was cancelled by token (1543.5ms)",
+    "2025-01-27 19:30:33.875 [info] (Windsurf) 2025-01-27 19:30:33.872 [INFO]: Completion request succeeded (29.14ms)",
+    "2025-01-27 19:30:33.951 [info] E0127 19:30:33.949873 13608 interceptor.go:55] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand: document has less than 3 lines, skipping supercomplete",
+    "2025-01-27 19:30:37.547 [info] (Windsurf) 2025-01-27 19:30:37.546 [INFO]: Completion request succeeded (1666.42ms)",
+    "2025-01-27 19:30:45.536 [info] (Windsurf) 2025-01-27 19:30:45.536 [INFO]: Completion request was cancelled by token (746.38ms)",
+    "2025-01-27 19:30:47.360 [info] (Windsurf) 2025-01-27 19:30:47.359 [INFO]: Completion request succeeded (1566.18ms)",
+    "2025-01-27 19:30:48.622 [info] (Windsurf) 2025-01-27 19:30:48.621 [INFO]: Completion request succeeded (45.3ms)",
+    "2025-01-27 19:30:48.684 [info] E0127 19:30:48.683646 13608 interceptor.go:55] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand: document has less than 3 lines, skipping supercomplete",
+    "2025-01-27 19:30:52.011 [info] (Windsurf) 2025-01-27 19:30:52.010 [INFO]: Completion request succeeded (1976.25ms)",
+    "2025-01-27 19:32:26.138 [info] (Windsurf) 2025-01-27 19:32:26.138 [INFO]: Completion request was cancelled by token (439.47ms)",
+    "2025-01-27 19:32:32.806 [info] (Windsurf) 2025-01-27 19:32:32.804 [INFO]: Completion request succeeded (46.88ms)",
+    "2025-01-27 19:32:32.852 [info] E0127 19:32:32.851951 13608 interceptor.go:55] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand: document has less than 3 lines, skipping supercomplete",
+    "2025-01-27 19:32:37.416 [info] (Windsurf) 2025-01-27 19:32:37.415 [INFO]: Completion request succeeded (2269.18ms)",
+    "2025-01-27 19:32:43.777 [info] (Windsurf) 2025-01-27 19:32:43.775 [INFO]: Completion request was cancelled by token (592.31ms)",
+    "2025-01-27 19:32:46.502 [info] (Windsurf) 2025-01-27 19:32:46.501 [INFO]: Completion request succeeded (24.08ms)",
+    "2025-01-27 19:32:46.561 [info] E0127 19:32:46.560805 13608 interceptor.go:55] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand: document has less than 3 lines, skipping supercomplete",
+    "2025-01-27 19:32:48.542 [info] E0127 19:32:48.542098 13608 interceptor.go:55] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand: edit summary is empty",
+    "2025-01-27 19:32:51.555 [info] (Windsurf) 2025-01-27 19:32:51.554 [INFO]: Completion request was cancelled by token (3477.72ms)",
+    "2025-01-27 19:36:36.733 [info] (Windsurf) 2025-01-27 19:36:36.732 [INFO]: Completion request was cancelled by token (584.49ms)",
+    "2025-01-27 19:36:38.144 [info] (Windsurf) 2025-01-27 19:36:38.144 [INFO]: Completion request succeeded (34.27ms)",
+    "2025-01-27 19:36:38.197 [info] E0127 19:36:38.196908 13608 interceptor.go:55] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand: document has less than 3 lines, skipping supercomplete",
+    "2025-01-27 19:36:40.920 [info] (Windsurf) 2025-01-27 19:36:40.920 [INFO]: Completion request was cancelled by token (60.56ms)",
+    "2025-01-27 19:36:41.678 [info] E0127 19:36:41.677526 13608 interceptor.go:55] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand: edit summary is empty",
+    "2025-01-27 19:36:43.113 [info] (Windsurf) 2025-01-27 19:36:43.112 [INFO]: Completion request was cancelled by token (1897.62ms)",
+    "2025-01-27 19:36:44.148 [info] E0127 19:36:44.147515 13608 interceptor.go:55] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand: document has less than 3 lines, skipping supercomplete",
+    "2025-01-27 19:36:44.608 [info] (Windsurf) 2025-01-27 19:36:44.607 [INFO]: Completion request succeeded (1108.6ms)",
+    "2025-01-27 19:36:46.251 [info] 2025/01/27 19:36:46 http: proxy error: readfrom tcp 127.0.0.1:59733->127.0.0.1:53139: write tcp 127.0.0.1:59733->127.0.0.1:53139: wsasend: An established connection was aborted by the software in your host machine."
+  ],
+  "languageServerDiagnostics": {
+    "logs": [
+      "I0127 19:04:11.717692 13608 main.go:572] Setting GOMAXPROCS to 4\n",
+      "I0127 19:04:11.723705 13608 main.go:785] Starting language server process with pid 13608\n",
+      "I0127 19:04:11.723705 13608 server.go:220] Language server will attempt to listen on host 127.0.0.1\n",
+      "I0127 19:04:11.725259 13608 server.go:227] Language server listening on random port at 53142\n",
+      "I0127 19:04:12.724229 13608 unleash.go:92] Initializing Unleash\n",
+      "I0127 19:04:13.305815 13608 unleash.go:112] Successfully initialized Unleash\n",
+      "I0127 19:04:13.306326 13608 server.go:303] Created extension server client at port 53139\n",
+      "I0127 19:04:13.521188 13608 server.go:558] Successfully created API server client\n",
+      "I0127 19:04:13.623415 13608 server.go:576] Successfully initialized tokenizer\n",
+      "I0127 19:04:15.980530 13608 server.go:753] Local search is enabled, will index local files.\n",
+      "I0127 19:04:15.980530 13608 server.go:757] Using 1 indexer workers\n",
+      "I0127 19:04:17.976385 13608 server.go:845] Successfully created completion provider\n",
+      "I0127 19:04:17.987122 13608 server.go:364] LSP listening on random port at 53155\n",
+      "I0127 19:04:18.235102 13608 utils.go:323] Analyzing workspace files for c:/Users/Esmail Sayed/CascadeProjects/my-react-app\n",
+      "I0127 19:04:18.453657 13608 utils.go:382] Done analyzing workspace files for c:/Users/Esmail Sayed/CascadeProjects/my-react-app\n",
+      "E0127 19:06:50.006076 13608 interceptor.go:55] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand: document has less than 3 lines, skipping supercomplete\n",
+      "E0127 19:07:02.640229 13608 interceptor.go:55] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand: document has less than 3 lines, skipping supercomplete\n",
+      "E0127 19:11:12.346084 13608 interceptor.go:55] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand: document has less than 3 lines, skipping supercomplete\n",
+      "E0127 19:11:42.386807 13608 interceptor.go:55] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand: document has less than 3 lines, skipping supercomplete\n",
+      "E0127 19:16:00.416469 13608 interceptor.go:55] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand: document has less than 3 lines, skipping supercomplete\n",
+      "E0127 19:16:01.499753 13608 interceptor.go:55] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand: edit summary is empty\n",
+      "E0127 19:16:12.341186 13608 interceptor.go:55] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand: document has less than 3 lines, skipping supercomplete\n",
+      "E0127 19:16:23.958180 13608 interceptor.go:55] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand: edit summary is empty\n",
+      "E0127 19:16:59.060236 13608 interceptor.go:55] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand: edit summary is empty\n",
+      "E0127 19:16:59.799566 13608 interceptor.go:55] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand: edit summary is empty\n",
+      "E0127 19:17:00.959333 13608 interceptor.go:55] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand: document has less than 3 lines, skipping supercomplete\n",
+      "E0127 19:22:58.993062 13608 interceptor.go:55] /exa.language_server_pb.LanguageServerService/CancelCascadeInvocation: executor is not currently running\n",
+      "E0127 19:25:37.516720 13608 interceptor.go:55] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand: document has less than 3 lines, skipping supercomplete\n",
+      "E0127 19:27:20.689903 13608 interceptor.go:55] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand: document has less than 3 lines, skipping supercomplete\n",
+      "E0127 19:28:30.019724 13608 interceptor.go:55] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand: document has less than 3 lines, skipping supercomplete\n",
+      "E0127 19:29:10.875530 13608 interceptor.go:55] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand: document has less than 3 lines, skipping supercomplete\n",
+      "E0127 19:29:30.061797 13608 interceptor.go:55] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand: document has less than 3 lines, skipping supercomplete\n",
+      "E0127 19:30:33.949873 13608 interceptor.go:55] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand: document has less than 3 lines, skipping supercomplete\n",
+      "E0127 19:30:48.683646 13608 interceptor.go:55] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand: document has less than 3 lines, skipping supercomplete\n",
+      "E0127 19:32:32.851951 13608 interceptor.go:55] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand: document has less than 3 lines, skipping supercomplete\n",
+      "E0127 19:32:46.560805 13608 interceptor.go:55] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand: document has less than 3 lines, skipping supercomplete\n",
+      "E0127 19:32:48.542098 13608 interceptor.go:55] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand: edit summary is empty\n",
+      "E0127 19:36:38.196908 13608 interceptor.go:55] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand: document has less than 3 lines, skipping supercomplete\n",
+      "E0127 19:36:41.677526 13608 interceptor.go:55] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand: edit summary is empty\n",
+      "E0127 19:36:44.147515 13608 interceptor.go:55] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand: document has less than 3 lines, skipping supercomplete\n"
+    ]
+  },
+  "recentTrajectories": [
+    {
+      "cascadeId": "f9044ac7-536f-43a8-81d4-30c6d74da69e",
+      "trajectoryId": "e58b73f6-ed5e-433a-be7e-d5bc68a2c081",
+      "summary": "Creating an Admin Dashboard",
+      "lastStepIndex": 62,
+      "lastModifiedTime": "2025-01-27T17:36:39.244Z"
+    },
+    {
+      "cascadeId": "82258cc2-aaa5-41b2-aca6-ba77d23f5211",
+      "trajectoryId": "ca85c12e-a425-40e9-8603-a4b7a5d4ec57",
+      "summary": "Improving Login Page Design",
+      "lastStepIndex": 36,
+      "lastModifiedTime": "2025-01-27T17:01:12.186Z"
+    },
+    {
+      "cascadeId": "568bd2dc-d54a-4c7f-9403-5c8d3fae1d8a",
+      "trajectoryId": "4ed9bf22-f157-4f3e-a5e7-e9deff02ff7d",
+      "summary": "Creating a Loading Screen Component  ",
+      "lastStepIndex": 70,
+      "lastModifiedTime": "2025-01-27T16:39:48.278Z"
+    },
+    {
+      "cascadeId": "df3e81ff-9019-4606-a73c-633c68a854e4",
+      "trajectoryId": "dd693196-2f41-4ab1-963d-2a187e4f4c7d",
+      "summary": "Creating a Stylish Header with Chat",
+      "lastStepIndex": 24,
+      "lastModifiedTime": "2025-01-27T15:46:38.820Z"
+    },
+    {
+      "cascadeId": "08f1ed83-0145-4543-8781-7bf7763b1971",
+      "trajectoryId": "9c6ce15a-f516-4209-ac6c-91f821ec7d37",
+      "summary": "Responsive Design for Mobile Screens",
+      "lastStepIndex": 406,
+      "lastModifiedTime": "2025-01-26T22:16:57.681Z"
+    },
+    {
+      "cascadeId": "2494f552-0f0c-42b5-a2d4-6957d1231799",
+      "trajectoryId": "325934ac-5494-4ce4-841f-e344b4a194e4",
+      "summary": "Creating a Professional Portfolio Page",
+      "lastStepIndex": 372,
+      "lastModifiedTime": "2025-01-26T20:02:31.720Z"
+    },
+    {
+      "cascadeId": "b172d064-09ea-4bbd-a223-e677058bf59a",
+      "trajectoryId": "1e2928ec-6b46-4c95-9d19-35bf075b674f",
+      "summary": "Building a Firebase Authentication System",
+      "lastStepIndex": 482,
+      "lastModifiedTime": "2025-01-26T15:54:18.927Z"
+    },
+    {
+      "cascadeId": "1e840575-9f14-4120-8c93-53bb8f44d9ec",
+      "trajectoryId": "df3ef165-e63e-4bb8-a865-ad0affc2ac4b",
+      "summary": "Enhancing Skills Showcase with Images",
+      "lastStepIndex": 359,
+      "lastModifiedTime": "2025-01-26T11:42:12.761Z"
+    },
+    {
+      "cascadeId": "297e7dd3-fb85-4629-b023-f79c8c0453dd",
+      "trajectoryId": "523fa40a-03cb-4414-af00-8c8c8012e3b6",
+      "summary": "Enhancing Contact Page Dynamics",
+      "lastStepIndex": 391,
+      "lastModifiedTime": "2025-01-26T09:31:55.666Z"
+    },
+    {
+      "cascadeId": "2959d0f7-3137-4a9c-9480-4910b8403cc2",
+      "trajectoryId": "60b10cd9-9afe-48c9-8d02-fd8f5d4c08d8",
+      "summary": "Designing a Beautiful CSS Home  ",
+      "lastStepIndex": 38,
+      "lastModifiedTime": "2025-01-24T23:10:11.044Z"
+    }
+  ],
+  "extensionDiagnostics": {
+    "url": "vscode-webview://1qqae6ucgpefjt90v299h4irkhau3vnjlvibh2285s247fha3int/index.html?id=bab1c854-4320-439d-90eb-fafae5f4846c&origin=3eb3e7a3-9c2b-44b4-a937-d93db110fc28&swVersion=4&extensionId=codeium.windsurf&platform=electron&vscode-resource-base-authority=vscode-resource.vscode-cdn.net&parentOrigin=vscode-file%3A%2F%2Fvscode-app&purpose=webviewView",
+    "connection": {
+      "status": "DISCONNECTED",
+      "error": {}
+    },
+    "error": {
+      "name": "ConnectError",
+      "message": "[unavailable] HTTP 502",
+      "stack": [
+        "ConnectError: [unavailable] HTTP 502",
+        "    at Ir (https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/Esmail%20Sayed/AppData/Local/Programs/Windsurf/resources/app/extensions/windsurf/out/media/chat.js:2:5356343)",
+        "    at next (https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/Esmail%20Sayed/AppData/Local/Programs/Windsurf/resources/app/extensions/windsurf/out/media/chat.js:2:5360205)",
+        "    at async Object.unary (https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/Esmail%20Sayed/AppData/Local/Programs/Windsurf/resources/app/extensions/windsurf/out/media/chat.js:2:5359419)",
+        "    at async Object.insertCodeAtCursor (https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/Esmail%20Sayed/AppData/Local/Programs/Windsurf/resources/app/extensions/windsurf/out/media/chat.js:2:5349854)",
+        "    at async https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/Esmail%20Sayed/AppData/Local/Programs/Windsurf/resources/app/extensions/windsurf/out/media/chat.js:2:6064852"
+      ]
+    },
+    "isChatEnabled": true,
+    "handshake": {},
+    "params": {
+      "ideTelemetryEnabled": true,
+      "ready": true,
+      "defaultView": "cascade",
+      "apiKey": "898080ad-2ac1-4738-9358-edadb4ced1ee",
+      "extensionName": "windsurf",
+      "extensionVersion": "1.32.2",
+      "ideName": "windsurf",
+      "ideVersion": "1.2.2",
+      "locale": "en",
+      "hasDevExtension": false,
+      "appName": "windsurf",
+      "hasEnterpriseExtension": false,
+      "hasIndexService": false,
+      "diffViewEnabled": true,
+      "openFilePointerEnabled": true,
+      "insertAtCursorEnabled": true,
+      "cascadeInitId": ""
+    },
+    "data": {
+      "numMessages": 0
+    },
+    "bridge": {
+      "bridgeType": "null"
+    },
+    "health": {
+      "checkStatus": null,
+      "error": {
+        "name": "TypeError",
+        "message": "Cannot read properties of undefined (reading 'replace')"
+      }
+    }
+  },
+  "extensionPanelLogs": [
+    "[ERROR] 2025-1-27 19:7:2.792 [AsyncPostMessage] handleUpdateIdePlanInfo timed out (id: 5pHuBY4QHtpPKmv3asiuz905uUP09aXe)",
+    "[ERROR] 2025-1-27 19:10:41.255 [AsyncPostMessage] handleUpdateIdePlanInfo timed out (id: 6QQhpgbG7T4BHmadiVep9QMpVZ76kL79)",
+    "[ERROR] 2025-1-27 19:13:46.792 [AsyncPostMessage] handleUpdateIdePlanInfo timed out (id: CzvlDy0P4W6thSrb9DQCEr6h8IlG8i4B)",
+    "[ERROR] 2025-1-27 19:14:51.610 [AsyncPostMessage] handleUpdateIdePlanInfo timed out (id: 6jFCs16xUq4vkmZHsyKFMaz0YWstHGfd)",
+    "[ERROR] 2025-1-27 19:16:14.794 [AsyncPostMessage] handleUpdateIdePlanInfo timed out (id: sJKTU0jP8T6dOLEzqcW0LUEvIuisIfxK)",
+    "[ERROR] 2025-1-27 19:17:15.657 [AsyncPostMessage] handleUpdateIdePlanInfo timed out (id: npo1fJQkMbVTvkQfLP6YTGgs3yR3d39H)",
+    "[ERROR] 2025-1-27 19:19:12.557 [AsyncPostMessage] handleUpdateIdePlanInfo timed out (id: ezqMXggM2veQlk7zJRtci2YnN93nse0L)",
+    "[ERROR] 2025-1-27 19:22:59.687 ConnectError: [unknown] executor is not currently running",
+    "[ERROR] 2025-1-27 19:23:19.601 [AsyncPostMessage] handleUpdateIdePlanInfo timed out (id: PeQ3uAs0HF3X289PjPJTDYxXLnECHgvr)",
+    "[ERROR] 2025-1-27 19:23:44.311 [AsyncPostMessage] handleUpdateIdePlanInfo timed out (id: GwlWbPJh8iAca3qXo7ph97Hene47D1US)",
+    "[ERROR] 2025-1-27 19:25:47.967 [AsyncPostMessage] handleUpdateIdePlanInfo timed out (id: XiVb9TavkaMyjV7IteCuCll5ULz6FF2a)",
+    "[ERROR] 2025-1-27 19:27:34.379 [AsyncPostMessage] handleUpdateIdePlanInfo timed out (id: O2rlii9YcQk5Yc3tjON1mVw03IlDur9t)",
+    "[ERROR] 2025-1-27 19:30:53.600 [AsyncPostMessage] handleUpdateIdePlanInfo timed out (id: kEU9sYv542KI7YowBHzARnC1POoE9Zf9)",
+    "[ERROR] 2025-1-27 19:32:39.733 [AsyncPostMessage] handleUpdateIdePlanInfo timed out (id: cYv0ERuKEwkbtJOwDCEvGtlG9vChuIEi)"
+  ]
+}

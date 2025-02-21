@@ -1,0 +1,658 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;600;700&display=swap');
+
+:root {
+  --primary-color: #3498db;
+  --secondary-color: #2ecc71;
+  --background-color: #f4f6f7;
+  --text-color: #2c3e50;
+  --card-background: rgba(255, 255, 255, 0.9);
+  --bg-gradient-start: #1e3c72;
+  --bg-gradient-end: #2a5298;
+  --scrollbar-bg: rgba(255, 255, 255, 0.1);
+  --scrollbar-thumb: rgba(255, 255, 255, 0.3);
+  --scrollbar-thumb-hover: rgba(255, 255, 255, 0.5);
+  --bg-primary: #0f2027;
+  --bg-secondary: #203a43;
+  --bg-tertiary: #2c5364;
+  --accent-color-1: #3494e6;
+  --accent-color-2: #ec6ead;
+  --text-primary: #ffffff;
+  --text-secondary: #e0e0e0;
+}
+
+.about-container {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(135deg, var(--bg-primary), var(--bg-secondary));
+  color: var(--text-primary);
+  font-family: 'Cairo', sans-serif;
+  direction: rtl;
+  padding: 2rem;
+}
+
+.about-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
+}
+
+.profile-section {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  width: 100%;
+  max-width: 1200px;
+}
+
+.profile-image-container {
+  position: relative;
+  flex: 0 0 300px;
+}
+
+.profile-image {
+  width: 100%;
+  border-radius: 50%;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+}
+
+.image-border {
+  position: absolute;
+  top: -10px;
+  left: -10px;
+  right: -10px;
+  bottom: -10px;
+  border: 4px solid var(--primary-color);
+  border-radius: 50%;
+  z-index: -1;
+}
+
+.profile-info {
+  flex: 1;
+  text-align: right;
+}
+
+.profile-info h1 {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.profile-info h2 {
+  font-size: 1.5rem;
+  color: var(--primary-color);
+  margin-bottom: 1rem;
+}
+
+.skills-achievements-section {
+  width: 100%;
+  max-width: 1200px;
+  margin-top: 2rem;
+}
+
+.skills-section, .achievements-section {
+  background: rgba(255,255,255,0.1);
+  border-radius: 10px;
+  padding: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.skills-grid, .achievements-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
+}
+
+.skill-item, .achievement-card {
+  background: rgba(255,255,255,0.05);
+  border-radius: 10px;
+  padding: 1rem;
+  transition: transform 0.3s ease;
+}
+
+.skill-item:hover, .achievement-card:hover {
+  transform: translateY(-10px);
+}
+
+.skill-bar {
+  height: 10px;
+  background: rgba(255,255,255,0.1);
+  border-radius: 5px;
+  overflow: hidden;
+  margin: 0.5rem 0;
+}
+
+.skill-progress {
+  height: 100%;
+  border-radius: 5px;
+}
+
+.social-links {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+.social-link {
+  color: var(--text-primary);
+  font-size: 2rem;
+  transition: color 0.3s ease;
+}
+
+.social-link:hover {
+  color: var(--primary-color);
+}
+
+.particle-background {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  overflow: hidden;
+  pointer-events: none;
+  background: linear-gradient(
+    135deg, 
+    rgba(30, 39, 87, 0.1) 0%, 
+    rgba(10, 11, 26, 0.5) 100%
+  );
+}
+
+.main-section {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 20px;
+  width: 100%;
+}
+
+.about-header {
+  text-align: center;
+  margin-bottom: 3rem;
+  color: var(--text-primary);
+}
+
+.about-header h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  font-weight: 700;
+  background: linear-gradient(135deg, var(--hover-color), var(--accent-light));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.about-header p {
+  font-size: 1.2rem;
+  color: var(--text-secondary);
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.about-sections {
+  display: flex;
+  justify-content: space-between;
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.about-section {
+  background: var(--glassmorphism-bg);
+  border-radius: var(--border-radius);
+  padding: 2rem;
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.18);
+  backdrop-filter: blur(10px);
+  border: 1px solid var(--accent-color);
+  flex: 1;
+}
+
+.about-section h2 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  color: var(--text-primary);
+  border-bottom: 2px solid var(--hover-color);
+  padding-bottom: 0.5rem;
+}
+
+.professional-info p {
+  color: var(--text-secondary);
+  line-height: 1.8;
+}
+
+.skills ul {
+  list-style: none;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.5rem;
+}
+
+.skills ul li {
+  background: rgba(52, 148, 230, 0.1);
+  padding: 0.5rem;
+  border-radius: 8px;
+  text-align: center;
+  color: var(--text-secondary);
+  transition: all var(--transition-speed) ease;
+}
+
+.skills ul li:hover {
+  background: rgba(52, 148, 230, 0.2);
+  color: var(--text-primary);
+  transform: translateX(5px);
+}
+
+.education {
+  text-align: center;
+}
+
+.education-item h3 {
+  color: var(--text-primary);
+  margin-bottom: 0.5rem;
+}
+
+.education-item p {
+  color: var(--text-secondary);
+}
+
+/* Responsive Design */
+@media screen and (max-width: 768px) {
+  .about-sections {
+    flex-direction: column;
+  }
+
+  .about-header h1 {
+    font-size: 2rem;
+  }
+
+  .about-header p {
+    font-size: 1rem;
+  }
+
+  .skills ul {
+    grid-template-columns: 1fr;
+  }
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+  scrollbar-width: thin;
+  scrollbar-color: var(--scrollbar-thumb) var(--scrollbar-bg);
+}
+
+*::-webkit-scrollbar {
+  display: none;  /* Chrome, Safari, and Opera */
+  width: 12px;
+  background: var(--scrollbar-bg);
+}
+
+*::-webkit-scrollbar-track {
+  background: var(--scrollbar-bg);
+  border-radius: 10px;
+}
+
+*::-webkit-scrollbar-thumb {
+  background: var(--scrollbar-thumb);
+  border-radius: 10px;
+  border: 3px solid transparent;
+  background-clip: content-box;
+  transition: background 0.3s ease;
+}
+
+*::-webkit-scrollbar-thumb:hover {
+  background: var(--scrollbar-thumb-hover);
+}
+
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+body, html {
+  height: 100%;
+  overflow-x: hidden;
+}
+
+.about-page {
+  position: relative;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.about-page::before,
+.about-page::after {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: -1;
+}
+
+.about-page::before {
+  background: linear-gradient(
+    135deg, 
+    var(--bg-primary), 
+    var(--bg-secondary), 
+    var(--bg-tertiary)
+  );
+  background-size: 400% 400%;
+  animation: gradientFlow 15s ease infinite;
+  opacity: 0.8;
+}
+
+.about-page::after {
+  background-image: 
+    linear-gradient(
+      45deg, 
+      rgba(52, 148, 230, 0.1), 
+      rgba(236, 110, 173, 0.1)
+    ),
+    repeating-linear-gradient(
+      45deg, 
+      transparent 0, 
+      transparent 25px, 
+      rgba(255, 255, 255, 0.05) 25px, 
+      rgba(255, 255, 255, 0.05) 50px
+    );
+  opacity: 0.5;
+  animation: geometricMove 20s linear infinite;
+}
+
+.about-page .particle-layer {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: -2;
+}
+
+.particle {
+  position: absolute;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 50%;
+  animation: particleFloat 10s ease-in-out infinite alternate;
+}
+
+@keyframes gradientFlow {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+@keyframes geometricMove {
+  0% { transform: rotate(0deg) scale(1); }
+  50% { transform: rotate(180deg) scale(1.2); }
+  100% { transform: rotate(360deg) scale(1); }
+}
+
+@keyframes particleFloat {
+  0% { 
+    transform: translateY(0) rotate(0deg); 
+    opacity: 0.3;
+  }
+  100% { 
+    transform: translateY(-100px) rotate(360deg); 
+    opacity: 0.1;
+  }
+}
+
+.about-container {
+  position: relative;
+  background: rgba(15, 32, 39, 0.8);
+  border-radius: 20px;
+  box-shadow: 
+    0 15px 35px rgba(0, 0, 0, 0.2),
+    0 5px 15px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(15px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  overflow: hidden;
+  z-index: 10;
+}
+
+.profile-section {
+  display: flex;
+  align-items: center;
+  gap: 3rem;
+  margin-bottom: 2rem;
+}
+
+.profile-image-wrapper {
+  position: relative;
+  flex-shrink: 0;
+}
+
+.profile-image {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.image-border {
+  position: absolute;
+  top: -10px;
+  left: -10px;
+  right: -10px;
+  bottom: -10px;
+  border-radius: 50%;
+  background: linear-gradient(45deg, var(--primary-color), var(--secondary-color));
+  z-index: -1;
+  filter: blur(15px);
+  opacity: 0.7;
+}
+
+.profile-info {
+  flex-grow: 1;
+}
+
+.profile-info h1 {
+  font-size: 2.5rem;
+  color: var(--text-color);
+  margin-bottom: 0.5rem;
+}
+
+.profile-info h2 {
+  font-size: 1.5rem;
+  color: var(--primary-color);
+  margin-bottom: 1rem;
+}
+
+.profile-info p {
+  color: rgba(44, 62, 80, 0.8);
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+}
+
+.social-links {
+  display: flex;
+  gap: 1rem;
+}
+
+.social-links a {
+  color: var(--text-color);
+  transition: color 0.3s ease, transform 0.2s ease;
+}
+
+.social-links a:hover {
+  color: var(--primary-color);
+}
+
+.tabs-section {
+  background: rgba(255, 255, 255, 0.5);
+  border-radius: 15px;
+  padding: 1rem;
+}
+
+.tab-headers {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.tab-header {
+  background: none;
+  border: none;
+  font-size: 1.2rem;
+  color: var(--text-color);
+  cursor: pointer;
+  position: relative;
+  padding-bottom: 0.5rem;
+  transition: color 0.3s ease;
+}
+
+.tab-header.active {
+  color: var(--primary-color);
+  font-weight: bold;
+}
+
+.tab-header.active::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 3px;
+  background: var(--primary-color);
+  animation: tabUnderline 0.3s ease;
+}
+
+@keyframes tabUnderline {
+  from { width: 0; }
+  to { width: 100%; }
+}
+
+.skills-grid, .achievements-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+}
+
+.skill-item {
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 10px;
+  padding: 1rem;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.skill-item:hover {
+  transform: translateY(-10px);
+}
+
+.skill-info {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 0.5rem;
+}
+
+.skill-bar {
+  height: 10px;
+  background: #e0e0e0;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.skill-progress {
+  height: 100%;
+  border-radius: 5px;
+}
+
+.skill-description {
+  font-size: 0.9rem;
+  color: rgba(44, 62, 80, 0.7);
+  margin-top: 0.5rem;
+}
+
+.achievements-section {
+  text-align: center;
+}
+
+.achievement-card {
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 15px;
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.achievement-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 15px 25px rgba(0, 0, 0, 0.15);
+}
+
+.achievement-icon {
+  color: var(--primary-color);
+  margin-bottom: 1rem;
+}
+
+.achievement-card h3 {
+  color: var(--text-color);
+  margin-bottom: 0.5rem;
+}
+
+.achievement-card p {
+  color: rgba(44, 62, 80, 0.7);
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  .about-page::before,
+  .about-page::after {
+    background-size: 800% 800%;
+  }
+  .profile-section {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .profile-image-wrapper {
+    margin-bottom: 1.5rem;
+  }
+
+  .tab-headers {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .tab-header {
+    margin-bottom: 1rem;
+  }
+
+  .about-container {
+    margin: 1rem;
+    padding: 2rem 1rem;
+  }
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+  background-color: var(--scrollbar-bg);
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: var(--scrollbar-thumb);
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: var(--scrollbar-thumb-hover);
+}

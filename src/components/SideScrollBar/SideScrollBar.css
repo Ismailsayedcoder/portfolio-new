@@ -1,0 +1,21 @@
+.side-scroll-container {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 4px;
+  height: 100%;
+  background: rgba(100, 255, 218, 0.1);
+  z-index: 1000;
+}
+
+.side-scroll-progress {
+  width: 100%;
+  background: var(--accent-primary);
+  transition: height 0.2s ease;
+}
+
+@media (max-width: 1024px) {
+  .side-scroll-container {
+    display: none;
+  }
+}

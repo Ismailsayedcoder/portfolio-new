@@ -1,0 +1,220 @@
+/* Modern Login Page Styling with Animations */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap');
+
+:root {
+  --primary-color: #3498db;
+  --secondary-color: #2ecc71;
+  --background-color: #f4f6f7;
+  --text-color: #2c3e50;
+  --error-color: #e74c3c;
+}
+
+.login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+  font-family: 'Inter', sans-serif;
+}
+
+.login-form {
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+  padding: 40px;
+  width: 100%;
+  max-width: 450px;
+  animation: fadeIn 0.6s ease-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.login-form h2 {
+  text-align: center;
+  color: var(--text-color);
+  margin-bottom: 30px;
+  font-weight: 600;
+}
+
+.form-group {
+  margin-bottom: 20px;
+  position: relative;
+}
+
+.form-input {
+  width: 100%;
+  padding: 12px 15px;
+  border: 2px solid #e0e0e0;
+  border-radius: 8px;
+  font-size: 16px;
+  transition: all 0.3s ease;
+}
+
+.form-input:focus {
+  border-color: var(--primary-color);
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.2);
+}
+
+.login-button {
+  width: 100%;
+  padding: 12px;
+  background-color: var(--primary-color);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.login-button:hover {
+  background-color: #2980b9;
+  transform: translateY(-2px);
+}
+
+.login-button:active {
+  transform: translateY(1px);
+}
+
+.forgot-password {
+  text-align: center;
+  margin-top: 15px;
+}
+
+.forgot-password a {
+  color: var(--primary-color);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.forgot-password a:hover {
+  color: var(--secondary-color);
+}
+
+.error-message {
+  color: var(--error-color);
+  text-align: center;
+  margin-top: 15px;
+  animation: shake 0.5s;
+}
+
+@keyframes shake {
+  0%, 100% { transform: translateX(0); }
+  10%, 30%, 50%, 70%, 90% { transform: translateX(-5px); }
+  20%, 40%, 60%, 80% { transform: translateX(5px); }
+}
+
+/* Responsive Design */
+@media (max-width: 480px) {
+  .login-form {
+    width: 90%;
+    padding: 20px;
+  }
+}
+
+/* Input State Animations */
+.form-input:invalid {
+  border-color: var(--error-color);
+}
+
+.form-input:valid {
+  border-color: var(--secondary-color);
+}
+
+.login-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  gap: 30px;
+  max-width: 1200px;
+  width: 100%;
+}
+
+.admin-news-section {
+  background-color: #f9f9f9;
+  border-radius: 12px;
+  padding: 30px;
+  width: 350px;
+  max-height: 500px;
+  overflow-y: auto;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  direction: rtl;
+}
+
+.admin-news-section h3 {
+  text-align: center;
+  color: var(--primary-color);
+  margin-bottom: 20px;
+  border-bottom: 2px solid var(--primary-color);
+  padding-bottom: 10px;
+}
+
+.news-item {
+  background-color: white;
+  border-radius: 8px;
+  padding: 15px;
+  margin-bottom: 15px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.05);
+  transition: transform 0.3s ease;
+}
+
+.news-item:hover {
+  transform: translateY(-3px);
+}
+
+.news-item h4 {
+  color: var(--text-color);
+  margin-bottom: 10px;
+}
+
+.news-item p {
+  color: #666;
+  margin-bottom: 10px;
+}
+
+.news-item small {
+  color: #999;
+  display: block;
+  text-align: left;
+}
+
+.admin-login-option {
+  text-align: center;
+  margin-top: 15px;
+}
+
+.admin-login-option a {
+  color: #007bff;
+  text-decoration: none;
+  font-size: 0.9em;
+  transition: color 0.3s ease;
+}
+
+.admin-login-option a:hover {
+  color: #0056b3;
+  text-decoration: underline;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .login-wrapper {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .admin-news-section {
+    width: 90%;
+    max-height: none;
+  }
+}

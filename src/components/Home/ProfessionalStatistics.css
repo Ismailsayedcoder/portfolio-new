@@ -1,0 +1,179 @@
+:root {
+  --primary-bg: #0a192f;
+  --secondary-bg: #112240;
+  --accent-color: #64ffda;
+  --text-primary: #e6f1ff;
+  --text-secondary: #8892b0;
+  --background-secondary: #112240;
+  --background-tertiary: #0a192f;
+}
+
+.professional-statistics-section {
+  background-color: var(--background-secondary);
+  padding: 4rem 2rem;
+  color: var(--text-primary);
+}
+
+.professional-statistics-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.section-title {
+  font-size: 2.5rem;
+  margin-bottom: 3rem;
+  color: var(--text-primary);
+  position: relative;
+}
+
+.section-title::after {
+  content: '';
+  position: absolute;
+  bottom: -10px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100px;
+  height: 4px;
+  background: var(--accent-color);
+}
+
+.statistics-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 2rem;
+  margin-bottom: 3rem;
+}
+
+.statistic-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem;
+  border-radius: 15px;
+  border: 2px solid transparent;
+  transition: all 0.3s ease;
+  text-align: center;
+}
+
+.statistic-icon {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+  transition: transform 0.3s ease;
+}
+
+.statistic-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.statistic-content h3 {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+  color: var(--text-secondary);
+}
+
+.statistic-value {
+  font-size: 2rem;
+  font-weight: bold;
+  color: var(--text-primary);
+}
+
+.statistic-description {
+  margin-top: 1rem;
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  max-width: 250px;
+}
+
+.social-contributions {
+  background-color: var(--background-tertiary);
+  padding: 2rem;
+  border-radius: 15px;
+}
+
+.social-contributions h3 {
+  font-size: 1.8rem;
+  margin-bottom: 2rem;
+  color: var(--text-primary);
+}
+
+.contributions-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2rem;
+}
+
+.contribution-card {
+  display: flex;
+  align-items: center;
+  padding: 1.5rem;
+  border-radius: 15px;
+  border: 2px solid transparent;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+.contribution-icon {
+  font-size: 2.5rem;
+  margin-left: 1rem;
+}
+
+.contribution-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.contribution-content h4 {
+  font-size: 1.1rem;
+  color: var(--text-secondary);
+  margin-bottom: 0.5rem;
+}
+
+.contribution-value {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: var(--text-primary);
+}
+
+@media (max-width: 1200px) {
+  .statistics-grid,
+  .contributions-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .statistics-grid,
+  .contributions-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .section-title {
+    font-size: 2rem;
+  }
+
+  .statistic-card,
+  .contribution-card {
+    padding: 1.5rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .professional-statistics-section {
+    padding: 2rem 1rem;
+  }
+
+  .section-title {
+    font-size: 1.8rem;
+  }
+
+  .statistic-icon {
+    font-size: 2.5rem;
+  }
+
+  .statistic-value {
+    font-size: 1.8rem;
+  }
+}

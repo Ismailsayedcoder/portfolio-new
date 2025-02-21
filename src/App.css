@@ -1,0 +1,80 @@
+:root {
+  --primary-color: #ff0055;
+  --secondary-color: #00ff88;
+  --accent-color: #7700ff;
+  --background-dark: #0a0a1a;
+  --header-height: 80px; /* Adjust based on your actual header height */
+}
+
+body {
+  padding-top: var(--header-height);
+}
+
+.app-wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.content-wrapper {
+  flex-grow: 1;
+  padding: 20px;
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.app-background {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    135deg, 
+    rgba(119, 0, 255, 0.1), 
+    rgba(255, 0, 85, 0.1)
+  );
+  opacity: 0.5;
+  z-index: 1;
+  pointer-events: none;
+  animation: backgroundShift 20s ease infinite;
+}
+
+@keyframes backgroundShift {
+  0%, 100% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+}
+
+@keyframes particleAnimation {
+  0% { transform: translateX(-100%) rotate(0deg); }
+  100% { transform: translateX(100vw) rotate(360deg); }
+}
+
+.app-background::before {
+  content: '';
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: repeating-radial-gradient(
+    circle at center,
+    transparent 0%,
+    rgba(119, 0, 255, 0.05) 10%,
+    transparent 20%
+  );
+  animation: particleAnimation 20s linear infinite;
+  pointer-events: none;
+  z-index: -1;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .content-wrapper {
+    padding: 10px;
+  }
+  :root {
+    --header-height: 60px; /* Smaller header height for mobile */
+  }
+}

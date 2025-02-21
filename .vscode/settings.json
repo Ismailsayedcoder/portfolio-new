@@ -1,0 +1,28 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+<<<<<<< HEAD
+    "workbench.iconTheme": "sweet-vscode-icons",
+=======
+    "workbench.iconTheme": "material-icon-theme",
+>>>>>>> c01e75f (Initial commit)
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+    },
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": true,
+    "editor.fontLigatures": true,
+    "editor.wordWrap": "on",
+    "editor.tabSize": 2,
+    "files.autoSave": "onFocusChange",
+    "prettier.singleQuote": true,
+    "prettier.semi": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "material-icon-theme.activeIconPack": "react",
+    "editor.suggestSelection": "first",
+    "editor.minimap.enabled": true,
+    "editor.mouseWheelZoom": true
+}

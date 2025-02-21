@@ -1,0 +1,142 @@
+:root {
+  --primary: #ff0055;
+  --secondary: #00ff88;
+  --accent: #7700ff;
+  --dark: #111111;
+  --light: #ffffff;
+  --cyber-glow: 0 0 20px rgba(255, 0, 85, 0.5);
+}
+
+body {
+  font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: var(--light);
+}
+
+.signup-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  perspective: 1000px;
+  overflow: hidden;
+  position: relative;
+  background: linear-gradient(45deg, var(--dark), #1a1a2e);
+}
+
+.signup-container::before {
+  content: '';
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: repeating-radial-gradient(
+    circle at center,
+    transparent 0%,
+    rgba(119, 0, 255, 0.05) 10%,
+    transparent 20%
+  );
+  animation: particleAnimation 20s linear infinite;
+  pointer-events: none;
+  z-index: -1;
+}
+
+.signup-form {
+  background: rgba(17, 17, 17, 0.8);
+  backdrop-filter: blur(15px);
+  border-radius: 20px;
+  padding: 3rem;
+  width: 100%;
+  max-width: 500px;
+  box-shadow: 0 15px 50px rgba(119, 0, 255, 0.3);
+  transform: rotateX(10deg);
+  transition: all 0.3s ease;
+}
+
+.signup-form:hover {
+  transform: rotateX(0) scale(1.02);
+  box-shadow: 0 20px 60px rgba(119, 0, 255, 0.5);
+}
+
+.signup-form h2 {
+  text-align: center;
+  color: var(--light);
+  margin-bottom: 2rem;
+  font-size: 2rem;
+  letter-spacing: 1px;
+}
+
+.form-group {
+  margin-bottom: 1.5rem;
+  position: relative;
+}
+
+.form-group input {
+  width: 100%;
+  padding: 12px 20px;
+  border: 2px solid transparent;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 10px;
+  color: var(--light);
+  font-size: 1rem;
+  transition: all 0.3s ease;
+  outline: none;
+}
+
+.form-group input:focus {
+  border-color: var(--primary);
+  box-shadow: 0 0 15px rgba(255, 0, 85, 0.3);
+}
+
+.signup-btn {
+  width: 100%;
+  padding: 12px;
+  background: var(--primary);
+  color: var(--light);
+  border: none;
+  border-radius: 10px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: var(--cyber-glow);
+}
+
+.signup-btn:hover {
+  background: var(--accent);
+  transform: scale(1.02);
+  box-shadow: 0 0 30px rgba(119, 0, 255, 0.5);
+}
+
+.login-link {
+  text-align: center;
+  margin-top: 1.5rem;
+  color: var(--light);
+  font-size: 0.9rem;
+}
+
+.login-link a {
+  color: var(--secondary);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.login-link a:hover {
+  color: var(--primary);
+}
+
+@keyframes particleAnimation {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+/* Responsive Design */
+@media screen and (max-width: 600px) {
+  .signup-form {
+    margin: 0 20px;
+    padding: 2rem;
+  }
+}
