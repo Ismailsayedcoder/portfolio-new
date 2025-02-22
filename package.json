@@ -2,7 +2,7 @@
   "name": "lion-code-app",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://Ismailsayedcoder.github.io/my-react-app",
+  "homepage": ".",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
