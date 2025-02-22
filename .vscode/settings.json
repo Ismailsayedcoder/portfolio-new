@@ -1,10 +1,6 @@
 {
     "workbench.colorTheme": "Default Dark+",
-<<<<<<< HEAD
-    "workbench.iconTheme": "sweet-vscode-icons",
-=======
     "workbench.iconTheme": "material-icon-theme",
->>>>>>> c01e75f (Initial commit)
     "editor.formatOnSave": true,
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.codeActionsOnSave": {
